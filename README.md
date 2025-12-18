@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @samyabdellatif
-- 👀 I’m interested in Network programmability and automation, Arch Linux
-- 🌱 I’m currently learning Cisco DevNet 
-- 💞️ I’m looking to collaborate on Network Automation Programs 
+- 👀 recent interests: Cloud services (IaaS, PaaS, SaaS), Network programmability and automation, Linux, Python, MongoDB, Flask, .NET, Powershell, AI.
 - 📫 send me email on samiahmed086@gmail.com
 
 <!---
