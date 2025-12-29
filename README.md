@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @samyabdellatif
-- 👀 recent interests: Cloud services (IaaS, PaaS, SaaS), Network programmability and automation, Linux, Python, MongoDB, Flask, .NET, Powershell, AI.
+- 👀 recent interests: Cloud services (IaaS, PaaS, SaaS), Network programmability and automation, Linux, Python, MongoDB, Flask, Flutter, .NET, Powershell, AI.
 - 📫 send me email on samiahmed086@gmail.com
 
 <!---
