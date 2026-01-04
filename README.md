@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @samyabdellatif
-- 👀 recent interests: Cloud services (IaaS, PaaS, SaaS), Network programmability and automation, Linux, Python, MongoDB, Flask, Flutter, .NET, Powershell, AI.
-- 📫 send me email on samiahmed086@gmail.com
+recent interests: Cloud services (IaaS, PaaS, SaaS), Network programmability and automation, Linux, Python, MongoDB, Flask, Flutter, .NET, Powershell, AI.
 
 <!---
 samyabdellatif/samyabdellatif is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
